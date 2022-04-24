@@ -1,4 +1,1 @@
-print("Hello world")
-#mission: make it say hello world
-#byudfkodjfkjdifjjnfhhduf
-#gtyg.kuuyiuhjkui
+print("if this works I`ll be very happy :)")
